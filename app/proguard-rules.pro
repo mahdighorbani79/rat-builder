@@ -1,0 +1,5 @@
+-keep class com.simple.rat.** { *; }
+-keep class com.google.firebase.** { *; }
+-keep class okhttp3.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
